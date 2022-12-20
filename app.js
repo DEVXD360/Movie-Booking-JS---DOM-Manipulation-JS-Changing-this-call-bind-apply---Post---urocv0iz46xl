@@ -168,3 +168,4 @@ const renderMoviesList = async () => {
 
 
 renderMoviesList();
+
